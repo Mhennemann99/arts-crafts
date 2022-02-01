@@ -1,0 +1,57 @@
+h1 {
+	background-image: url('/resources/images/pattern.webp');
+	text-align: center;
+	font-size: 100px;
+	color: burlywood;
+	font-weight: bold;
+}
+
+#Brush-Title {
+	background-color: green;
+	font-size: 32px;
+	font-weight: bold;
+	color: ivory;
+}
+
+#Frames-Title {
+	background-color: palevioletred;
+	font-size: 32px;
+	font-weight: bold;
+	color: ivory;
+}
+
+#Paint-Title {
+	background-color: rgb(83, 123, 184);
+	font-size: 40px;
+	font-weight: bold;
+	color: ivory;
+}
+
+h1,
+h2,
+h3,
+p {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+	padding-top: 5px;
+	padding-bottom: 1px;
+}
+
+.price {
+	color: blue;
+	font-weight: bold;
+}
+
+.item {
+	display: block;
+}
+
+footer {
+	display: flex;
+	justify-content: center;
+	padding: 20px;
+	background-color: burlywood;
+	color: black;
+}
